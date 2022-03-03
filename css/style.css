@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+
+.box{
+    background-color: #EEEEEE;
+    margin: 0 100px;
+}
+.search-bar{
+    padding: 1px 2px;
+
+}
+.second-box{
+    margin: 2px 100px 0 100px;
+    background-color: white;
+    
+}
+
+.search-box{
+    background-color: #7DE5DA;
+    float: left;
+    padding: 5px;
+    width: 30%;
+    height: 86px;
+       border-collapse: separate;
+    /* margin: 0 2px 0 0; */
+   
+}
+.info-box{
+    background-color: #70CBC2;
+    float: left;
+    padding: 5px;
+    width: 20% ;
+    height: 86px;
+    border-collapse: separate;
+    /* margin: 0 2px 0 0; */
+    
+}
+
+.mail-box{
+    background-color: #62B3AA;
+    padding: 5px;
+    height: 86px;
+    width: 50%px;
+    border-collapse: separate;
+    /* margin:0 0 0 2px ; */
+
+} 
+
+.bg-white{
+    background-color: white;
+    
+}
+
+.fs-16px{
+    font-size: 16px;
+}
+
+.fs-13px{
+    font-size: 13px;
+
+}
+
+figure{
+    width: 964x113px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 200px;
+}
+
+
